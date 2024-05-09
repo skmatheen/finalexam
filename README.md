@@ -1,6 +1,6 @@
 # finalexam
 
-This project demonstrates the use of the Decorator Design Pattern to dynamically add toppings to pizzas in a simulated pizza shop system.
+This project demonstrates the use of the Decorator Design Pattern to dynamically add toppings to pizzas in a simulated pizza shop system. Added a base class VeggiePizza that allows to add veggi pizza along instead of plain pizza.
 
 ## Getting Started
 
