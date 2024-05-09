@@ -8,7 +8,7 @@ These instructions are a copy of the project up for development and testing purp
 
 ### Prerequisites
 
-Install VSCode or IntelliJ or any other IDE to run java files.
+Install VSCode or Eclipse or IntelliJ or any other IDE to run java files.
 
 
 ### Install
